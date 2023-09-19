@@ -1,6 +1,10 @@
 :root {
-	font-size: 18px;
+	font-size: 15px;
 }
+.page {
+    display: grid;
+    grid-template-columns: 350px 100px 100px;
+  }
 body {
     background-color: #E4E7DE;
     background: url(https://i.pinimg.com/564x/11/9a/5d/119a5d0511aef6ed4524eb0f2b4160e2.jpg), #effafe 1% / cover no-repeat;
@@ -17,8 +21,16 @@ main {
 	background: #cdd0c6;
 	width: 600px;
 	margin: 0 auto;
-	padding: 2rem;
+	padding: 3rem;
 }
 h1 {
     font-size: 52pt;
+    color: #4b3b2e;
+    text-align: center;
+}
+h2 {
+    font-size: 20pt;
+}
+h3 {
+    font-size: 12pt;
 }
