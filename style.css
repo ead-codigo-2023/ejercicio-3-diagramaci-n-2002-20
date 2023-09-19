@@ -3,7 +3,7 @@
 }
 .page {
     display: grid;
-    grid-template-columns: 350px 100px 100px;
+    grid-template-columns: 345px 100px 100px;
   }
 body {
     background-color: #E4E7DE;
