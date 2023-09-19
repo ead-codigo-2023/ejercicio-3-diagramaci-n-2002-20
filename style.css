@@ -1,3 +1,7 @@
 body {
     background-color: #E4E7DE;
+    background: url(https://i.pinimg.com/236x/4f/b8/62/4fb862511ced1f6552476f5fce495492--japanese-artists-water-lilies.jpg), lightgray 1% / cover no-repeat;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: top;
 }
