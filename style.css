@@ -13,12 +13,12 @@ hr {
 	margin-bottom: 1.5rem;
 }
 main {
-	font-family: Delius;
+	font-family:Georgia, 'Times New Roman', Times, serif;
 	background: #cdd0c6;
 	width: 600px;
 	margin: 0 auto;
 	padding: 2rem;
 }
 h1 {
-    font-size: 60pt;
+    font-size: 52pt;
 }
